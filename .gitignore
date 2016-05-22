@@ -41,3 +41,11 @@ xcuserdata
 # Carthage/Checkouts
 
 Carthage/Build
+
+## Xamarin Binding
+*.a
+*.dll
+*.exe
+bin/
+obj/
+*.userprefs
